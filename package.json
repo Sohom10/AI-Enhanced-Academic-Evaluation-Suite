@@ -1,0 +1,8 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "Root package for running frontend and backend together",
+  "scripts": {
+    
+  }
+}
