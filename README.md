@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./assets/project_banner.png" width="100%" alt="AI Academic Evaluation Suite Banner" />
+</div>
+
 # AI-Enhanced Academic Evaluation Suite 🎓🤖
 
 [![Next.js](https://img.shields.io/badge/Next.js-15+-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
@@ -107,7 +111,22 @@ npm start
 
 ## 📸 Screenshots
 
-*(Add your beautiful UI screenshots here to wow your GitHub visitors!)*
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/32210738-9a1c-4f5a-b6f3-4d79d3f60949" width="48%" alt="Dashboard Overview" />
+  <img src="https://github.com/user-attachments/assets/2223ce24-60a6-444a-91d0-3022f9aa7bbb" width="48%" alt="AI Analysis View" />
+  <br />
+  <img src="https://github.com/user-attachments/assets/ff4110e9-2914-4800-9390-8ffde0c7378f" width="48%" alt="Teacher Portal" />
+  <img src="https://github.com/user-attachments/assets/66ad3fa3-713a-4e72-8a7b-5b0c0c60daac" width="48%" alt="Exam Management" />
+  <br />
+  <img src="https://github.com/user-attachments/assets/6c6400a7-3f06-45f4-8d62-070f724097e7" width="48%" alt="Student Interface" />
+  <img src="https://github.com/user-attachments/assets/e0519ae7-f890-4f86-9eba-af28aefdf984" width="48%" alt="Results & Grading" />
+  <br />
+  <img src="https://github.com/user-attachments/assets/47dbb2bf-7b01-4a54-bfd9-d9436921ee1e" width="48%" alt="OCR Processing" />
+  <img src="https://github.com/user-attachments/assets/105ddbd2-62b8-402a-bd5b-42f99f1c5c70" width="48%" alt="Admin Governance" />
+  <br />
+  <img src="https://github.com/user-attachments/assets/e18827ac-5052-4935-9ff7-0a2324b3e460" width="48%" alt="System Settings" />
+  <img src="https://github.com/user-attachments/assets/4cd84810-5fab-4daf-a1c1-f6028fcb5625" width="48%" alt="Analytics Report" />
+</div>
 
 ---
 
