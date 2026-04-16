@@ -1,0 +1,11 @@
+@echo off
+echo Starting Backend Server...
+start cmd /k "cd backend && npm run dev"
+
+echo Starting Frontend Server...
+start cmd /k "cd frontend && npm run dev"
+
+echo Both servers are starting in separate windows.
+echo You can access the website at http://localhost:3000
+timeout /t 3
+exit
